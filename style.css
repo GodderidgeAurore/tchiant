@@ -45,7 +45,24 @@ ul {
 
 
 /* Début bloc articles | Valentin & Lilian */
+#articles {
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    margin: auto;
+    }
 
+.article {
+    height: 350px;
+    width: 750px;
+    background:#eaeaea;
+    margin: 20px;
+}
+
+body {
+    margin: 0px;
+}
 /* Fin bloc articles */
 
 
