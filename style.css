@@ -19,9 +19,15 @@
 /* Début footer | Mathieu & Aurore */
 
 #footer {
-    height: 50px;
+    height: auto;
     width : 100%;
     background-color: dodgerblue;
+    margin-top: 10px;
+    color : white;
+    text-align:center;
+    font-family:sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 /* Fin footer */
