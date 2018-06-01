@@ -1,0 +1,14 @@
+/* Github template interro */
+
+- Designer un integrateur [Valentin]
+- Creer le truc sur github [Valentin]
+- cd dans son dossier git [TlM]
+- Creer son dossier github sur son ordinateur [TlM]
+- Allez sur l'url du dossier source et cliquer sur Fork
+- git clone url [TlM]
+- git remote add upstream https://github.com/GelleMatthieu/tchiant 
+(git remote -v pour voir si ça marche)
+- git commit -a -m "message bidon" (indiquer les changements) [TlM]
+- git push (entrer vos identifiants git) [TlM]
+- SUR LE SITE GITHUB faire une pull request
+
